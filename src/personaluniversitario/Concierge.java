@@ -1,2 +1,5 @@
-package personaluniversitario;public class Concierge {
+package personaluniversitario;
+
+public class Concierge extends Employee{
+
 }

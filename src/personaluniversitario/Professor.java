@@ -1,2 +1,5 @@
-package personaluniversitario;public class Professor {
+package personaluniversitario;
+
+public class Professor extends Employee{
+
 }
